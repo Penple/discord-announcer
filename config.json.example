@@ -1,0 +1,22 @@
+{
+  "token": "x",
+  "messages": [
+    {
+      "cron": "0 * * * *",
+      "channels": [
+        "x"
+      ],
+      "message": "x"
+    },
+    {
+      "cron": "0 */2 * * *",
+      "channels": [
+        "x"
+      ],
+      "message": [
+        "multi message",
+        "example"
+      ]
+    }
+  ]
+}

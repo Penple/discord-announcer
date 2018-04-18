@@ -1,0 +1,10 @@
+{
+  "name": "botwark-messages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-cron": "^1.2.1",
+    "request": "^2.85.0"
+  }
+}
